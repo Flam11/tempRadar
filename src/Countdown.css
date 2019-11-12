@@ -1,0 +1,13 @@
+.countdown {
+    background: linear-gradient(darkgoldenrod, darkorange);
+    color: white;
+    font-size: 1.8rem;
+    padding: 25px;
+    text-align: center;
+}
+
+div strong {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(255, 230, 0);
+}

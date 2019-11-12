@@ -1,0 +1,29 @@
+.edit-event {
+    background: orange;
+    color: white;
+    text-align: center;
+    font-size: 1.8rem;
+    padding: 25px;
+
+    margin: 50px;
+}
+
+div button {
+    padding: 10px;
+    margin: 10px;
+    background-color: hsl(209, 100%, 50%);
+}
+
+div {
+    background-color: rgb(255, 51, 0);
+}
+
+div div label {
+    padding: 10px;
+    margin: 10px;
+}
+
+div div input {
+    padding: 15px;
+    margin: 15px;
+}
